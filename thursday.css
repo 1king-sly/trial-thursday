@@ -1,0 +1,15 @@
+body{
+     background-color:powderblue;
+     font-family:monotype corsiva;
+     font-size:35px;
+     text-align:centre;
+    }
+h1{
+   color:orange;
+   margin:32px;
+   border:15px tomato;
+   }
+
+p{
+  color:mediumseagreen;
+  }
